@@ -6,7 +6,7 @@ Uma aplicação gráfica desenvolvida em Python usando **Tkinter** que utiliza *
 
 ## 📋 Descrição do Projeto
 
-Este programa carrega um conjunto de dados de preços de casas a partir de um arquivo Excel (`preco_casas.xlsx`) e utiliza o algoritmo de **Regressão Linear** da biblioteca **Scikit-Learn (sklearn)** para prever o preço estimado de uma casa. Ele possui uma interface gráfica agradável e intuitiva, onde o usuário pode:
+Este programa carrega um conjunto de dados de preços de casas a partir de um arquivo Excel (`preco_casas.xlsx`) e utiliza o algoritmo de **Regressão Linear** da biblioteca **Scikit-Learn (sklearn)** para prever o preço estimado de uma casa. Ele possui uma interface gráfica, onde o usuário pode:
 - Inserir o tamanho da casa (em metros quadrados).
 - Ver o preço estimado da casa com base no modelo treinado.
 
