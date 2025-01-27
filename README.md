@@ -1,6 +1,6 @@
 # Previsão de Preço de Casas 🏡
 
-Uma aplicação gráfica desenvolvida em Python usando **Tkinter** que utiliza **Regressão Linear** com a biblioteca **Scikit-Learn (sklearn)** para prever o preço de uma casa com base em seu tamanho em metros quadrados.
+Este é o primeiro projeto envolvendo Inteligência Artificial (IA) que desenvolvi. Uma aplicação desenvolvida em Python  que utiliza **Regressão Linear** com a biblioteca **Scikit-Learn (sklearn)** para prever o preço de uma casa com base em seu tamanho em metros quadrados.
 
 ---
 
